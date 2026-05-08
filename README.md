@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,matlab)](https://skillicons.dev)
 
 ### **Data & Backend**
-[![My Skills](https://skillicons.dev/icons?i=sql,postgres,mongodb,nodejs,express,fastapi,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,nodejs,express,fastapi,docker,git,github)](https://skillicons.dev)
 
 ### **Frontend & Mobile**
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma)](https://skillicons.dev)
