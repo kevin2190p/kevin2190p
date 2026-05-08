@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,7dcfff&height=120&section=header&width=1000" width="100%"/>
 
-# Hey there, I'm Kevin Lee 👋
+# Hey there, I'm Kevin 👋
 ### AI Engineer | Data Scientist | Full-Stack Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-kevin-a87412202/)
@@ -15,7 +15,7 @@
 
 ## 🤖 About Me
 
-* 🚀 **Currently:** Final Year Data Science (Honours) Student at TARUMT.
+* 🚀 **Currently:** Final Year Data Science (Honours) Student.
 * 🧠 **Specializing in:** Multi-Agent Swarms, RAG Architectures, and Security Forensics.
 * 🏆 **Recent Win:** Best Presenter at MLHMI 2026, Tokyo for Real-time Facial Emotion Recognition.
 * 💼 **Experience:** Completed Data Analytics Internship at Kuala Lumpur Kepong Berhad (KLK).
