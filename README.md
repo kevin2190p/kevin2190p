@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=header&width=1000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,f7768e&height=120&section=header&width=1000" width="100%"/>
 
 # Hey there, I'm Kevin Lee 👋
 ### AI Engineer | Data Scientist | Full-Stack Builder
@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,matlab)](https://skillicons.dev)
 
 ### **Data & Backend**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,nodejs,express,fastapi,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,postgres,mongodb,nodejs,express,fastapi,docker,git,github)](https://skillicons.dev)
 
 ### **Frontend & Mobile**
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma)](https://skillicons.dev)
@@ -52,14 +52,15 @@
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin2190p&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Kevin's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin2190p&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevin2190p&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Kevin's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevin2190p&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Trophies" />
 </div>
 
 ## 🐍 Contribution Activity
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2190p&theme=tokyonight" alt="Streak Stats" />
 </div>
@@ -71,5 +72,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer&width=1000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,f7768e&height=120&section=footer&width=1000" width="100%"/>
 </div>
