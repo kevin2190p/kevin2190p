@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=150&section=header&width=1000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=header&width=1000" width="100%"/>
 
 # Hey there, I'm Kevin Lee 👋
 ### AI Engineer | Data Scientist | Full-Stack Builder
@@ -61,8 +61,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2190p&theme=tokyonight" alt="Streak Stats" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kevin2190p/kevin2190p/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=150&section=footer&width=1000&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer&width=1000" width="100%"/>
 </div>
