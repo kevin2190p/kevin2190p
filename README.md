@@ -52,8 +52,8 @@
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin2190p&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2190p&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin2190p&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2190p&layout=compact&theme=tokyonight&hide=html,css" height="180" alt="Kevin's Top Languages" />
 </div>
 
 ## 🐍 Contribution Activity
