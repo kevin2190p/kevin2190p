@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,f7768e&height=120&section=header&width=1000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,7dcfff&height=120&section=header&width=1000" width="100%"/>
 
 # Hey there, I'm Kevin Lee 👋
 ### AI Engineer | Data Scientist | Full-Stack Builder
@@ -72,5 +72,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,f7768e&height=120&section=footer&width=1000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,7dcfff&height=120&section=footer&width=1000" width="100%"/>
 </div>
