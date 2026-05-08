@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=150&section=header&width=1000" width="100%"/>
 
 # Hey there, I'm Kevin Lee 👋
 ### AI Engineer | Data Scientist | Full-Stack Builder
@@ -17,7 +17,7 @@
 
 * 🚀 **Currently:** Final Year Data Science (Honours) Student at TARUMT.
 * 🧠 **Specializing in:** Multi-Agent Swarms, RAG Architectures, and Security Forensics.
-* 🏆 **Recent Win:** Best Presenter at MLHMI 2026, Tokyo for Real-time Facial Emotion Recognition research.
+* 🏆 **Recent Win:** Best Presenter at MLHMI 2026, Tokyo for Real-time Facial Emotion Recognition.
 * 💼 **Experience:** Completed Data Analytics Internship at Kuala Lumpur Kepong Berhad (KLK).
 * ⚡ **Fun Fact:** I've spent more time in hackathons than in some of my actual lecture halls!
 
@@ -29,15 +29,12 @@
 
 ### **AI / Machine Learning**
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,matlab)](https://skillicons.dev)
-> **Expertise:** LLM Orchestration, Prompt Engineering, LangChain, and Computer Vision.
 
 ### **Data & Backend**
 [![My Skills](https://skillicons.dev/icons?i=sql,postgres,mongodb,nodejs,express,fastapi,docker,git,github)](https://skillicons.dev)
-> **Expertise:** SSIS, SSRS, Power BI, and building scalable data pipelines.
 
 ### **Frontend & Mobile**
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma)](https://skillicons.dev)
-> **Expertise:** Responsive Web Design and Zero-UI Agent interfaces.
 
 </div>
 
@@ -55,18 +52,17 @@
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin2190p&show_icons=true&theme=radical" alt="Kevin's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2190p&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin2190p&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2190p&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 ## 🐍 Contribution Activity
 <div align="center">
-  <!-- Note: This image will only appear once you set up the 'Snake' GitHub Action in your repository -->
-  <img src="https://raw.githubusercontent.com/kevin2190p/kevin2190p/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2190p&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=150&section=footer&width=1000&reversal=true" width="100%"/>
 </div>
