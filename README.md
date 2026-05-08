@@ -52,8 +52,11 @@
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin2190p&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Kevin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2190p&layout=compact&theme=tokyonight&hide=html,css" height="180" alt="Kevin's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin2190p&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Kevin's Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kevin2190p&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Kevin's Trophies" />
 </div>
 
 ## 🐍 Contribution Activity
